@@ -6,7 +6,7 @@ version: 0.1
 
 required:
  - deploy
-# - hello-world-repo
+ - hello-world-repo
 
 # Github repos
 hello-world-repo:

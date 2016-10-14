@@ -42,5 +42,5 @@ deploy:
   parameters:
     deploy-region: "{{region}}"
     deploy-org: "{{organization}}"
-    deploy-space: "{{space}}"
+    deploy-space: prod
     hello-world-name: "{{hello-world-repo.parameters.repo_name}}"
